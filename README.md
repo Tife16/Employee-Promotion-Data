@@ -8,7 +8,7 @@
 2. Which features are the strongest in predicting employee promotion?
 
 3. Does the contribution of each feature vary by gender?
-4. 
-5. Predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process.
+
+4. Predict whether a potential promotee at checkpoint in the test set will be promoted or not after the evaluation process.
 
 #### Analysis
